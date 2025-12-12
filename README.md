@@ -54,19 +54,20 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
 ## 🌐 Connect With Me
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+<a href="https://www.linkedin.com/in/mrlakshay/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/YOUR-LINK" target="_blank">
+<a href="https://www.instagram.com/_.lakshay00._?igsh=ajQzY244Y3Jtd2Nv&utm_source=qr" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
 </a>
-<a href="https://wa.me/YOUR-NUMBER" target="_blank">
+<a href="https://wa.me/+919034559192?text=Hello,%20I%20would%20like%20to%20start%20a%20conversation%20regarding%20[YOUR%20TOPIC].
+" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=ZeQPTbzIF4jw&format=png&color=25D366" width="50" height="50" alt="WhatsApp"/>
 </a>
-<a href="mailto:YOUR-EMAIL" target="_blank">
+<a href="mailto:lakshayabc000@gmail.com?subject=Hey,%20let's%20catch%20up&body=Hey,%20hi%20there!%20Just%20wanted%20to%20check%20in%20and%20start%20a%20chat." target="_blank">
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" height="50" alt="Email"/>
 </a>
-<a href="tel:YOUR-PHONE" target="_blank">
+<a href="tel:+919034559192" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=I24lanX6Nq71&format=png&color=00ff00" width="50" height="50" alt="Phone"/>
 </a>
 
