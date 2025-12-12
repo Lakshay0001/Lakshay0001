@@ -29,7 +29,8 @@ Currently exploring **AI**, **Cloud**, and **Scalable Web Systems**.
 
 ### 🎨 Frontend  
 <p>
-<img src="https://skillicons.dev/icons?i=next,react,qwik,html,css,js,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=next,react,html,css,js,tailwind,bootstrap" />
+<img src="https://qwik.builder.io/logo.svg" alt="Qwik" width="40" height="40" />
 </p>
 
 ### 🧰 Backend / Tools  
@@ -40,16 +41,15 @@ Currently exploring **AI**, **Cloud**, and **Scalable Web Systems**.
 </div>
 
 
+
 ---
 
-## 🌐 Connect
-
-<div style="background: linear-gradient(90deg, #3b82f6, #9333ea); padding: 12px; color: white; border-radius: 8px;">
-<b>Find me online:</b><br><br>
-🔗 LinkedIn – add link here  
-📸 Instagram – add link here  
-📧 Email – add email here  
-</div>
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://youtube.com/" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+</p>
 
 ---
 
