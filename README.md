@@ -1,4 +1,5 @@
-<h1 align="center" style="background: linear-gradient(90deg, #6EE7B7, #3B82F6); -webkit-background-clip: text; color: transparent;">
+<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
+<h1 align="center" >
   👋 Hey, I'm Lakshay
 </h1>
 
@@ -8,65 +9,76 @@
 
 ---
 
-<div style="padding: 18px; border-radius: 12px; background: linear-gradient(135deg, #1e293b, #0f172a); color: #fff;">
-  
 ## 🚀 About Me
-I'm a passionate web developer who loves building clean, fast and modern web applications.  
-Currently exploring **AI**, **Cloud**, and **Scalable Web Systems**.
+<div>
+I'm a passionate web developer who loves building clean, fast, and modern web applications.  
+Currently exploring **AI, Cloud, and Scalable Web Systems**.
 
-- 🧩 Focus: <b>Next.js, React.js, Tailwind, Qwik</b>  
-- ☁️ Learning: <b>AWS, Bitrix24, SQL</b>  
+- 🧩 Focus: **Next.js, React.js, Tailwind, Qwik**  
+- ☁️ Learning: **AWS, Bitrix24, SQL**  
 - 💡 I enjoy solving real-world problems with minimal yet smart solutions.  
 - 🎯 Goal: Become a full-stack cloud-ready developer.
-
 </div>
 
 ---
 
 ## 🛠️ Skills
 
-<div style="padding: 16px; border-left: 6px solid transparent; border-image: linear-gradient(180deg, #06b6d4, #3b82f6) 1;">
+<div>
 
-### 🎨 Frontend  
+### Frontend  
 <p>
-<img src="https://skillicons.dev/icons?i=next,react,html,css,js,tailwind,bootstrap" />
-<img src="https://qwik.builder.io/logo.svg" alt="Qwik" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=next,react,js,html,css,tailwind,bootstrap" alt="Frontend"/>
+<img src="https://i.pinimg.com/originals/9a/11/9b/9a119bc96b196011f9a41185a6e0340c.png" width="50" height="50" alt="Qwik"/>
 </p>
 
-### 🧰 Backend / Tools  
+### Backend / Tools  
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,aws,git,github,python,cpp" />
+<img src="https://skillicons.dev/icons?i=mysql,aws,git,github,python,cpp,npm" alt="Backend & Tools"/>
+<img src="https://skillicons.dev/icons?i=wordpress,vscode" alt="WordPress & VS Code"/>
+<img src="https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY" width="50" height="50" style="border-radius:10px;" alt="Bitrix24"/>
+
 </p>
 
 </div>
 
-
-
 ---
+
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://youtube.com/" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+
+<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/YOUR-LINK" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
+</a>
+<a href="https://wa.me/YOUR-NUMBER" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=iHyuCoDsohLG&format=png&color=25D366
+" width="50" height="50" alt="WhatsApp"/>
+</a>
+<a href="mailto:YOUR-EMAIL" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" height="50" alt="Email"/>
+</a>
+<a href="tel:YOUR-PHONE" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=jShwZ2RCyPSO&format=png&color=3ddb58" width="50" height="50" alt="Phone"/>
+</a>
+
 </p>
 
 ---
 
 ## ✨ Philosophy
-
-<div style="padding: 16px; border-radius: 12px; background: linear-gradient(135deg, #f59e0b, #ef4444); color: white;">
-  
-> “Build things that make life easier — minimal code, maximum impact.”
-
+<div>
+“Build things that make life easier — minimal code, maximum impact.”
 </div>
 
 ---
 
-## ☕ Support
-
-<div style="padding: 12px; background: linear-gradient(90deg, #ec4899, #8b5cf6); color: white; border-radius: 10px;">
-  If you like my work, you can support me here:  
-  <b>Buy Me a Coffee – add link</b>
-</div>
+<!-- ## ☕ Support
+<div>
+If you like my work, you can support me here:  
+[Buy Me a Coffee](YOUR-LINK) ☕
+</div> -->
 
