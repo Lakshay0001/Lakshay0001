@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
+
 <h1 align="center" >
   👋 Hey, I'm Lakshay
 </h1>
@@ -55,8 +55,7 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
   <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
 </a>
 <a href="https://wa.me/YOUR-NUMBER" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=iHyuCoDsohLG&format=png&color=25D366
-" width="50" height="50" alt="WhatsApp"/>
+  <img src="https://img.icons8.com/?size=100&id=iHyuCoDsohLG&format=png&color=25D366" width="50" height="50" alt="WhatsApp"/>
 </a>
 <a href="mailto:YOUR-EMAIL" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" height="50" alt="Email"/>
@@ -81,4 +80,3 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
 If you like my work, you can support me here:  
 [Buy Me a Coffee](YOUR-LINK) ☕
 </div> -->
-
