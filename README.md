@@ -1,4 +1,4 @@
-
+<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
 <h1 align="center" >
   👋 Hey, I'm Lakshay
 </h1>
@@ -6,11 +6,14 @@
 <p align="center">
   <b>Web Developer • React & Next.js Enthusiast • AI Learner</b>
 </p>
+</div>
 
 ---
 
+<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
+
 ## 🚀 About Me
-<div>
+
 I'm a passionate web developer who loves building clean, fast, and modern web applications.  
 Currently exploring **AI, Cloud, and Scalable Web Systems**.
 
@@ -22,9 +25,11 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
 
 ---
 
+<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
+
 ## 🛠️ Skills
 
-<div>
+
 
 ### Frontend  
 <p>
@@ -44,6 +49,7 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
 
 ---
 
+<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -55,21 +61,24 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
   <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
 </a>
 <a href="https://wa.me/YOUR-NUMBER" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=iHyuCoDsohLG&format=png&color=25D366" width="50" height="50" alt="WhatsApp"/>
+  <img src="https://img.icons8.com/?size=100&id=ZeQPTbzIF4jw&format=png&color=25D366" width="50" height="50" alt="WhatsApp"/>
 </a>
 <a href="mailto:YOUR-EMAIL" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" height="50" alt="Email"/>
 </a>
 <a href="tel:YOUR-PHONE" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=jShwZ2RCyPSO&format=png&color=3ddb58" width="50" height="50" alt="Phone"/>
+<img src="https://img.icons8.com/?size=100&id=I24lanX6Nq71&format=png&color=00ff00" width="50" height="50" alt="Phone"/>
 </a>
 
 </p>
 
+</div>
+
 ---
 
+<div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
+
 ## ✨ Philosophy
-<div>
 “Build things that make life easier — minimal code, maximum impact.”
 </div>
 
