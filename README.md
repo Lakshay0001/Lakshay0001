@@ -1,7 +1,7 @@
 <div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
 <h1 align="center" >
   👋 Hey, I'm Lakshay
-  <img src="me.lpeg" alt="My Image" 
+  <img src="me.jpeg" alt="My Image" 
          style="height:50px; width:50px; object-fit:cover; border-radius:50%; margin-left:10px; vertical-align:middle;">
 </h1>
 
