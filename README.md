@@ -2,7 +2,7 @@
 <h1 align="center" >
   👋 Hey, I'm Lakshay
   <img src="me.jpeg" alt="My Image" 
-         style="height:50px; width:50px; object-fit:cover; border-radius:50%; margin-left:10px; vertical-align:middle;">
+         style="height:50px; width:auto; object-fit:cover; border-radius:50%; margin-left:10px; vertical-align:middle;">
 </h1>
 
 <p align="center">
