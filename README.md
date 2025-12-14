@@ -1,6 +1,7 @@
 <div style="background: linear-gradient(135deg, #E0F7FA, #BBDEFB); padding: 16px; border-radius: 12px;">
 <h1 align="center" >
   👋 Hey, I'm Lakshay
+  <img src="me.png" alt="My Image"/>
 </h1>
 
 <p align="center">
