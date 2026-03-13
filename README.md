@@ -31,14 +31,10 @@ Currently exploring **AI, Cloud, and Scalable Web Systems**.
 
 
 
-### Frontend  
+### Tech Stack 
 <p>
 <img src="https://skillicons.dev/icons?i=next,react,js,html,css,tailwind,bootstrap" alt="Frontend"/>
 <img src="https://i.pinimg.com/originals/9a/11/9b/9a119bc96b196011f9a41185a6e0340c.png" width="50" height="50" alt="Qwik"/>
-</p>
-
-### Backend / Tools  
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,aws,git,github,python,cpp,npm" alt="Backend & Tools"/>
 <img src="https://skillicons.dev/icons?i=wordpress,vscode" alt="WordPress & VS Code"/>
 <img src="https://play-lh.googleusercontent.com/80ZGsLZ--6HCnPhbv1aCGBcdeEaz8q0VgDcfdc5ZUFyhUp3eklEo7bX_TFz8tBBiWwY" width="50" height="50" style="border-radius:10px;" alt="Bitrix24"/>
